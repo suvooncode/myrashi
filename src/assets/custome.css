@@ -1,0 +1,19 @@
+.bgtotal{
+    background:  url(./image/20594.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height:100vh;
+}
+.makecenter
+{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background: #35293894;
+    justify-content: center;
+    flex-direction: column;
+    align-content: stretch;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
